@@ -1,4 +1,4 @@
-# Java maven build : Hello World
+# Java Maven build : Hello World
 
 A "Hello World!" sample written in Java using Maven for the build, that showcases a few very simple tests.
 
