@@ -10,7 +10,7 @@ Unit tests written with JUnit
 
 A Maven build that puts it all together
 
-## Convetions
+## Convetions:
 This example follows the following basic conventions:
 
 Unit test resides in:	src/test/java/*Test.java
